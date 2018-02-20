@@ -1,7 +1,6 @@
-# cs5304
-data science
+# CS5304: Data Science in the Wild
 
-Homeworks for CS 5304: Data Science in the Wild at Cornell Tech. For other course related info, please visit (https://cs5304.github.io/)
+Homeworks for CS 5304: Data Science in the Wild at Cornell Tech. For other course related info, please visit https://cs5304.github.io/
 
 ### Assign0 - Environment Setup
 * Set up docker container for the assign0 and subsequent homeworks
